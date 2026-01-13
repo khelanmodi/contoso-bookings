@@ -43,6 +43,7 @@ The Codespace includes:
 - Node.js 16+
 - Docker (for DocumentDB)
 - OpenAI API Key from https://platform.openai.com/
+- [DocumentDB for VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-documentdb)
 
 ## How to run locally
 
